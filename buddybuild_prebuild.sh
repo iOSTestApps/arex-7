@@ -1,2 +1,2 @@
-brew install carthage
-carthage bootstrap
+#brew install carthage
+#carthage bootstrap
